@@ -1,0 +1,14 @@
+# vscode cache
+.vscode
+
+# node_modules
+models
+
+# build output
+build
+
+# install output
+install
+
+# log file
+# log

@@ -2,7 +2,7 @@
 #include <opencv2/dnn.hpp>
 #include "rclcpp/rclcpp.hpp"
 #include "image_transport/image_transport.hpp"
-#include "vision_msgs/msg/detection2_d_array.hpp"
+#include "vision_msgs/vision_msgs/msg/bounding_box2_d_array.hpp"
 
 class YoloDetector : public rclcpp::Node {
 public:
