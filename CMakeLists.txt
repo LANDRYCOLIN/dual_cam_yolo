@@ -64,6 +64,7 @@ ament_export_dependencies(
   image_transport
   sensor_msgs
   OpenCV
+  vision_msgs
 )
 
 if(BUILD_TESTING)

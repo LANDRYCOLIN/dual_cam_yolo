@@ -1,4 +1,3 @@
-// src/nodes/video_publisher.cpp
 #include <opencv2/videoio.hpp>
 #include "rclcpp/rclcpp.hpp"
 #include "image_transport/image_transport.hpp"
